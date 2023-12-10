@@ -1,6 +1,6 @@
 # mts-sre-course-chaos
 Домашняя работа №4 Chaos Engineering
-# Описание тестового стенда (оригинал схемы лежит в репозитории https://github.com/AlbertBukharov/mts-sre-course)
+### Описание тестового стенда (оригинал схемы лежит в репозитории https://github.com/AlbertBukharov/mts-sre-course)
 ![image](https://github.com/AlbertBukharov/mts-sre-course-chaos/assets/81142061/e3d5fa8a-e7d8-430d-8bf7-90faf9029018)
 
 ### Отключение узла: 
