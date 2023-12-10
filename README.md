@@ -88,7 +88,7 @@ root@alb-patroni02:/home/alberton/chaosblade-1.7.2# ./blade create cpu load --cp
 {"code":200,"success":true,"result":"96e8c67859c2a588"}
 Система корректно работает при утилизации CPU в 70%, кратковременные всплески до 95+% (периодически фиксировались в выводе htop) не оказывают влияния![image](https://github.com/AlbertBukharov/mts-sre-course-chaos/assets/81142061/8f520e50-9928-4827-8593-48df723f87aa)
 График утилизации с Node_exporter:
-![image](https://github.com/AlbertBukharov/mts-sre-course-chaos/assets/81142061/1ce5a2b7-4753-4dad-9cf6-939690e58c23)
+![image](https://github.com/AlbertBukharov/mts-sre-course-chaos/assets/81142061/1ce5a2b7-4753-4dad-9cf6-939690e58c23)  
 4. Анализ результатов: Система ведет себя предсказуемо при высокой утилизации CPU
 
 ### Тестирование систем мониторинга и оповещения: 
